@@ -1,0 +1,20 @@
+br/com/softblue/tictactoe/Constants.java
+ br.com.softblue.tictactoe.Constants
+br/com/softblue/tictactoe/ui/UI.java
+ br.com.softblue.tictactoe.ui.UI
+br/com/softblue/tictactoe/core/InvalidMoveException.java
+ br.com.softblue.tictactoe.core.InvalidMoveException
+br/com/softblue/tictactoe/core/Move.java
+ br.com.softblue.tictactoe.core.Move
+br/com/softblue/tictactoe/core/Player.java
+ br.com.softblue.tictactoe.core.Player
+br/com/softblue/tictactoe/score/ScoreManager.java
+ br.com.softblue.tictactoe.score.ScoreManager
+br/com/softblue/tictactoe/core/Board.java
+ br.com.softblue.tictactoe.core.Board
+br/com/softblue/tictactoe/score/FileScoreManager.java
+ br.com.softblue.tictactoe.score.FileScoreManager
+br/com/softblue/tictactoe/core/Game.java
+ br.com.softblue.tictactoe.core.Game
+br/com/softblue/tictactoe/Main.java
+ br.com.softblue.tictactoe.Main
