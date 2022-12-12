@@ -1,0 +1,12 @@
+jogoforca/core/Word.java
+ jogoforca.core.Word
+jogoforca/core/RandomUtils.java
+ jogoforca.core.RandomUtils
+jogoforca/core/Dictionary.java
+ jogoforca.core.Dictionary
+jogoforca/game/GameException.java
+ jogoforca.game.GameException
+jogoforca/game/Game.java
+ jogoforca.game.Game
+jogoforca/Main.java
+ jogoforca.Main
