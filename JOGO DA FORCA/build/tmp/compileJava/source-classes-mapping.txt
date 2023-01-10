@@ -2,11 +2,21 @@ jogoforca/core/Word.java
  jogoforca.core.Word
 jogoforca/core/RandomUtils.java
  jogoforca.core.RandomUtils
-jogoforca/core/Dictionary.java
- jogoforca.core.Dictionary
 jogoforca/game/GameException.java
  jogoforca.game.GameException
-jogoforca/game/Game.java
- jogoforca.game.Game
+jogoforca/core/InvalidCharacterException.java
+ jogoforca.core.InvalidCharacterException
+jogoforca/core/Config.java
+ jogoforca.core.Config
+jogoforca/ui/UI.java
+ jogoforca.ui.UI
 jogoforca/Main.java
  jogoforca.Main
+jogoforca/core/Dictionary.java
+ jogoforca.core.Dictionary
+jogoforca/game/Game.java
+ jogoforca.game.Game
+jogoforca/core/FileDictionary.java
+ jogoforca.core.FileDictionary
+jogoforca/core/StaticDictionary.java
+ jogoforca.core.StaticDictionary
