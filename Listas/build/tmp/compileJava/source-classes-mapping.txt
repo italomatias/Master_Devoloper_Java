@@ -1,0 +1,14 @@
+collections/list/Main.java
+ collections.list.Main
+collections/ordered/Main.java
+ collections.ordered.Main
+collections/set/Mes.java
+ collections.set.Mes
+collections/set/Main.java
+ collections.set.Main
+collections/map/Main.java
+ collections.map.Main
+collections/legacy/Main.java
+ collections.legacy.Main
+collections/newdataapi/Main.java
+ collections.newdataapi.Main
