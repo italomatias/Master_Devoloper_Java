@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.List;
 import java.util.Locale;
 import java.util.stream.Collectors;
@@ -9,9 +10,10 @@ public class Main {
 
         words.stream()
                 .filter(w -> w.startsWith("J"))
-                .map(w -> w.toLowerCase())
-                .forEach(w -> System.out.println(w));
-//                .collect(Collectors.toList());
+                //.map(w -> w.toLowerCase())
+                .map(String::toLowerCase)
+                //.forEach(w -> System.out.println(w));
+                .forEach(System.out::println);
 //
 //       filteredWords.forEach(w -> System.out.println(w));
 
