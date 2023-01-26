@@ -11,8 +11,6 @@ public class Main {
                 .map(c -> new Car(c.getBrand().toLowerCase(),c.getPrice()))
                 .peek(Car::addTax)
                 .forEach(System.out::println);
-
-        // TESTE !!asa
     }
 
 }
